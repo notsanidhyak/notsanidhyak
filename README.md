@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">My name is Sanidhya Kumar</div>  
+### <div align="center"><h2>My name is Sanidhya Kumar</h2></div>  
   
 
 - 🔭 I’m currently working on OFFBeaT, one stop solution for institutes  
@@ -39,7 +39,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=notsanidhyak&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 <br/>  
