@@ -25,7 +25,7 @@
 - ⚡ Fun fact: "Sab moh maya hai!"  
 
 
-- 📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-Sanidhya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanidhyak/)
+- 📫 How to reach me:      [![Linkedin Badge](https://img.shields.io/badge/-Sanidhya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanidhyak/)
 
   
 
