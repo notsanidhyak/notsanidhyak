@@ -43,7 +43,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=notsanidhyak&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 ![Sanidhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=notsanidhyak&show_icons=true&theme=dark) 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=notsanidhyak&theme=dark&background=000000)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notsanidhyak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notsanidhyak&layout=compact&theme=vision-friendly-dark)](https://github.com/notsanidhyak/github-readme-stats)
 
 
 <br/>  
