@@ -3,9 +3,7 @@
 </div>  
   
 
-### <div align="center"><h2>My name is Sanidhya Kumar
-  
-  </h2></div>  
+### <div align="center"><h2>My name is Sanidhya Kumar</br></h2></div>  
 
 
 - 🔭 I’m currently working on OFFBeaT, one stop solution for institutes  
