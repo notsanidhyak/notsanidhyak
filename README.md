@@ -44,7 +44,7 @@
 <br/>
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=notsanidhyak&theme=dark&background=000000" align="center" /></div> 
 <br/>
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notsanidhyak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</div>  
+<!-- <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notsanidhyak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</div>   -->
 
 <br/>  
 
