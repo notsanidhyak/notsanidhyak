@@ -4,6 +4,8 @@
   
 
 ### <div align="center"><h2>My name is Sanidhya Kumar</h2></div>  
+
+</br>
   
 
 - 🔭 I’m currently working on OFFBeaT, one stop solution for institutes  
