@@ -40,9 +40,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=notsanidhyak&show_icons=true&theme=dark" align="center" /></div>  
-<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=notsanidhyak&theme=dark&background=000000" align="center" /></div>  
-<div align="center"><img src="https://github.com/notsanidhyak/github-readme-stats" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=notsanidhyak&show_icons=true&theme=dark" align="center" /></div> 
+<br/>
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=notsanidhyak&theme=dark&background=000000" align="center" /></div> 
+<br/>
+<div align="center">[![Sanidhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</div>  
 
 <br/>  
 
