@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%","height: 50%"/>
 </div>  
   
 
 ### <div align="center"><h2>My name is Sanidhya Kumar<br/></h2></div>  
-
+</td></tr></table>  
 
 - 🔭 I’m currently working on OFFBeaT, one stop solution for institutes  
   
