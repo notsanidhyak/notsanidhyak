@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%","height: 50%"/>
+<img src="https://i.gifer.com/KBZ.gif" align="center" style="width: 100%","height: 50%"/>
 </div>  
   
 
@@ -7,10 +7,10 @@
 <br/>
 </td></tr></table>  
 
-- 🔭 I’m currently working on OFFBeaT, one stop solution for institutes  
+- 🔭 I’m currently working on Hyper, autoconnect application 
   
 
-- 🌱 I’m currently learning Computer Vision using python  
+- 🌱 I’m currently learning Machine Learning  
   
 
 - 🎓 I’m currently a sophomore at IIIT Vadodara  
