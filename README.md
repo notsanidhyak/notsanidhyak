@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Hyper, autoconnect application using CNN
   
 
-- 🌱 I’m currently exploring Deep Learning 
+- 🌱 I’m currently exploring Deep Learning & Computer Vision
   
 
 - 🎓 I’m currently a sophomore at IIIT Vadodara  
