@@ -7,10 +7,10 @@
 <br/>
 </td></tr></table>  
 
-- 🔭 I’m currently working on Hyper, autoconnect application 
+- 🔭 I’m currently working on Hyper, autoconnect application using CNN
   
 
-- 🌱 I’m currently learning Machine Learning  
+- 🌱 I’m currently exploring Deep Learning 
   
 
 - 🎓 I’m currently a sophomore at IIIT Vadodara  
@@ -19,7 +19,7 @@
 - 💻 I'm also the UI/UX volunteer at Google DSC IIITV  
   
 
-- ❓ Ask me about anything related to OpenCV and Python  
+- ❓ Ask me about anything related to OpenCV and ML/DL  
   
 
 - ⚡ Fun fact: "Sab moh maya hai!"  
