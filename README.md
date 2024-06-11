@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at Centum T&S as an SDE Intern
   
 
-- 🌱 I’m love exploring Deep Learning & Computer Vision
+- 🌱 I love exploring Deep Learning & Computer Vision
   
 
 - 🎓 I’m currently a pre-final year undergrad at IIIT Vadodara  
