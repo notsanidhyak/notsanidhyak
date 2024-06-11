@@ -13,7 +13,7 @@
 - 🌱 I love exploring Deep Learning & Computer Vision
   
 
-- 🎓 I’m currently a pre-final year undergrad at IIIT Vadodara  
+- 🎓 I’m currently a final year undergrad at IIIT Vadodara  
   
 
 - 💻 I'm also the UI/UX volunteer at Google DSC IIITV  
