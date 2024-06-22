@@ -39,7 +39,7 @@
 
 <br/>  
 
-## Github Stats  
+## Github Stats   
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=notsanidhyak&show_icons=true&theme=dark" align="center" /></div> 
 <br/>
