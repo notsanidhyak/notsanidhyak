@@ -49,12 +49,6 @@
 
 <br/>  
 
-## Memes >>?
-
-<div align="center">
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-</div>  
-
 ## Connect with me  
 
 <div align="center">
